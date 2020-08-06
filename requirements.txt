@@ -1,0 +1,5 @@
+numpy==1.19.1
+opencv-python==4.3.0.36
+Pillow==7.2.0
+pygame==1.9.6
+pytesseract==0.3.4
